@@ -1,0 +1,19 @@
+theme = "monokai_pro_ristretto"
+
+[editor.cursor-shape]
+insert="bar"
+normal="block"
+select="underline"
+
+[editor.file-picker]
+hidden=false
+
+[keys.insert.j]
+k = "normal_mode"
+[keys.insert.k]
+j ="normal_mode"
+
+[keys.select.j]
+k = "normal_mode"
+[keys.select.k]
+j = "normal_mode"
