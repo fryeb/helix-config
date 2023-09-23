@@ -1,6 +1,7 @@
 theme = "monokai_pro_ristretto"
 
 [editor]
+true-color=true
 gutters=["spacer"]
 
 [editor.cursor-shape]
